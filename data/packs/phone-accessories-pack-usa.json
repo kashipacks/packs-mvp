@@ -1,0 +1,27 @@
+{
+  "pack_id": "phone-accessories-pack-usa",
+  "pack_name": "Phone Accessories Pack (USA)",
+  "niche": "Phone Accessories",
+  "country": "USA",
+  "summary": "Popular phone add-ons focused on convenience and protection.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "ad-ready", "trending"],
+  "products": [
+    {"handle": "magsafe-wallet", "title": "Magnetic Phone Wallet", "description_preview": "Slim card wallet that snaps on securely.", "body_html": "<p>Carry cards without bulk using a strong magnetic wallet made for daily use.</p>", "price": "21.99", "inventory_qty": 110, "tags": ["phone", "magsafe", "wallet"]},
+    {"handle": "fast-wireless-charger", "title": "15W Wireless Charger", "description_preview": "Fast, safe charging with anti-slip base.", "body_html": "<p>Power up quickly with stable, heat-controlled wireless charging support.</p>", "price": "24.99", "inventory_qty": 130, "tags": ["phone", "charger", "wireless"]},
+    {"handle": "camera-lens-protector", "title": "Camera Lens Protector Set", "description_preview": "Scratch-resistant lens guards for clear shots.", "body_html": "<p>Protect your camera lenses from scratches and drops while keeping image quality clear.</p>", "price": "12.99", "inventory_qty": 200, "tags": ["phone", "protection", "camera"]}
+  ],
+  "pages": {
+    "Home": "Welcome to your one-stop shop for everyday phone upgrades.",
+    "About": "We curate practical phone accessories with modern designs and fair prices.",
+    "FAQ": "Q: Do these fit all phones? A: Each product page lists compatibility. Q: Is tracking included? A: Yes.",
+    "Shipping Policy": "USA shipping is usually delivered in 5-8 business days.",
+    "Refund Policy": "30-day returns on damaged or wrong items.",
+    "Privacy Policy": "Your checkout data is encrypted and only used to process orders."
+  },
+  "marketing": {
+    "hooks": ["Protect your phone, simplify your day.", "No cable clutter, just fast power.", "Your phone deserves better accessories.", "Slim style meets everyday utility.", "Snap on and go.", "Keep your camera safe and sharp.", "Upgrade without overspending.", "Small accessories, big convenience.", "Designed for modern phone users.", "Make your phone work smarter."],
+    "headlines": ["Best Phone Accessories in One Pack", "Everyday Upgrades for Your Phone", "Charge Faster, Carry Less", "Protect Your Phone in Style", "Smart Add-Ons for Busy Days", "Magnetic Gear You’ll Actually Use", "Popular Phone Essentials", "Sleek Accessories, Real Value", "Phone Protection Meets Convenience", "Shop Trending Phone Picks"],
+    "primary_texts": ["Get our handpicked phone accessories built for convenience, style, and everyday use.", "From wireless charging to camera protection, this pack covers your daily essentials.", "Shop beginner-friendly products that are easy to market and easy to sell.", "Offer your customers practical phone upgrades they can use immediately.", "This set combines trending accessories with strong value and clean design.", "Boost your store with phone products customers already search for.", "Simple, useful, and giftable—perfect for fast-moving ecommerce stores.", "Curated to reduce decision fatigue and help you launch quickly.", "Stock your store with proven phone accessories in one ready pack.", "Start selling useful phone essentials with ready-made copy and CSV import."]
+  }
+}

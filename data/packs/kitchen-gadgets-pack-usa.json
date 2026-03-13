@@ -1,0 +1,27 @@
+{
+  "pack_id": "kitchen-gadgets-pack-usa",
+  "pack_name": "Kitchen Gadgets Pack (USA)",
+  "niche": "Kitchen Gadgets",
+  "country": "USA",
+  "summary": "Time-saving kitchen tools for home cooks and busy families.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "home-use", "trending"],
+  "products": [
+    {"handle": "veggie-chopper-pro", "title": "Multi-Blade Veggie Chopper", "description_preview": "Dice onions and veggies in seconds.", "body_html": "<p>Prep meals faster with interchangeable blades and an easy-clean container.</p>", "price": "29.99", "inventory_qty": 95, "tags": ["kitchen", "prep", "gadget"]},
+    {"handle": "oil-spray-bottle", "title": "Refillable Oil Spray Bottle", "description_preview": "Even spray for healthier cooking.", "body_html": "<p>Control oil portions while air-frying, baking, or pan-cooking with a fine mist spray.</p>", "price": "14.99", "inventory_qty": 160, "tags": ["kitchen", "healthy", "cooking"]},
+    {"handle": "digital-measuring-spoon", "title": "Digital Measuring Spoon", "description_preview": "Precise ingredient measurement in grams.", "body_html": "<p>Measure powders and liquids accurately for recipes, coffee, and supplements.</p>", "price": "18.99", "inventory_qty": 140, "tags": ["kitchen", "baking", "precision"]}
+  ],
+  "pages": {
+    "Home": "Smart kitchen tools that save time and make cooking easier every day.",
+    "About": "We provide practical gadgets that help beginners cook faster with less mess.",
+    "FAQ": "Q: Are these dishwasher safe? A: Most parts are. Please check each listing.",
+    "Shipping Policy": "Orders ship in 1-2 business days and arrive in 5-9 days within the USA.",
+    "Refund Policy": "30-day returns available for damaged or defective items.",
+    "Privacy Policy": "Customer details are protected and used only for order fulfillment."
+  },
+  "marketing": {
+    "hooks": ["Cook faster with less effort.", "Meal prep made beginner-friendly.", "Less chopping, more enjoying.", "Simple tools for busy kitchens.", "Upgrade your cooking routine today.", "Cleaner prep, better meals.", "Healthy cooking starts with control.", "Kitchen shortcuts that actually work.", "Make every recipe easier.", "Smart gadgets for everyday cooks."],
+    "headlines": ["Kitchen Gadgets That Save Time", "Cook Smarter Every Day", "Beginner-Friendly Kitchen Tools", "Top Picks for Faster Meal Prep", "Smart Essentials for Home Cooks", "Trending Kitchen Must-Haves", "Make Cooking Easy Again", "Mess-Free Cooking Upgrades", "Practical Tools, Better Meals", "Your New Favorite Kitchen Set"],
+    "primary_texts": ["Help your customers prep meals faster with practical gadgets they’ll use daily.", "This kitchen pack is designed for convenience, easy cleanup, and better cooking flow.", "Offer useful products that solve common kitchen frustrations instantly.", "From chopping to measuring, these tools simplify everyday recipes.", "Perfect for busy families, meal preppers, and beginner home cooks.", "Stock your store with kitchen essentials that combine function and value.", "Launch with confidence using ready-made product copy and Shopify CSV import.", "Curated products make your kitchen niche store easier to run.", "Give customers smarter cooking tools without the premium price.", "Simple gadgets. Real benefits. Great starter pack for ecommerce." ]
+  }
+}

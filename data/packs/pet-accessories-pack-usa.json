@@ -1,0 +1,27 @@
+{
+  "pack_id": "pet-accessories-pack-usa",
+  "pack_name": "Pet Accessories Pack (USA)",
+  "niche": "Pet Accessories",
+  "country": "USA",
+  "summary": "A starter set of practical pet accessories for dog and cat owners.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "ad-ready", "trending"],
+  "products": [
+    {"handle": "pet-water-bottle", "title": "Portable Pet Water Bottle", "description_preview": "Travel-friendly bottle with one-hand water release.", "body_html": "<p>Keep pets hydrated on walks with a leak-proof, one-hand water bottle.</p>", "price": "19.99", "inventory_qty": 120, "tags": ["pet", "travel", "hydration"]},
+    {"handle": "self-grooming-brush", "title": "Self-Cleaning Grooming Brush", "description_preview": "Removes loose fur quickly and safely.", "body_html": "<p>Gentle bristles remove loose fur and the one-click release keeps cleanup easy.</p>", "price": "15.99", "inventory_qty": 150, "tags": ["pet", "grooming", "dog"]},
+    {"handle": "led-dog-collar", "title": "LED Safety Dog Collar", "description_preview": "Night-visibility collar with USB charging.", "body_html": "<p>Improve evening walk safety with bright LED light modes and a comfortable fit.</p>", "price": "17.99", "inventory_qty": 90, "tags": ["pet", "safety", "night"]}
+  ],
+  "pages": {
+    "Home": "Welcome to our pet essentials store. We help pet parents get practical accessories with fast USA shipping.",
+    "About": "We built this store for pet owners who want useful products without overpaying.",
+    "FAQ": "Q: How long is shipping? A: 5-9 business days in the USA. Q: Can I track my order? A: Yes, tracking is sent by email.",
+    "Shipping Policy": "Orders are processed in 1-2 business days and delivered in 5-9 business days across the USA.",
+    "Refund Policy": "We offer a 30-day refund policy for damaged or incorrect items.",
+    "Privacy Policy": "We collect only the data needed to process your order securely and never sell personal data."
+  },
+  "marketing": {
+    "hooks": ["Make walks easier for you and your pet.", "Hydration made simple on every outing.", "Less mess, less stress grooming.", "Pet safety after dark starts here.", "Small upgrades, happier pets.", "Designed for busy pet parents.", "Daily pet care made easier.", "Comfort and convenience in every product.", "Trusted picks for dogs and cats.", "Get pet essentials that actually help."],
+    "headlines": ["Top-Rated Pet Accessories", "Upgrade Your Pet Routine", "Walk, Groom, Repeat", "Pet Essentials for Everyday", "Safer Night Walks Start Here", "Hydration on the Go", "Smart Pet Gear for Busy Owners", "Loved by Dog and Cat Parents", "Shop Must-Have Pet Tools", "Simple Products, Happy Pets"],
+    "primary_texts": ["Discover practical pet accessories that make care routines faster and easier.", "From grooming to travel, these bestsellers help your pet stay happy and safe.", "Our pet tools are beginner-friendly, affordable, and ready to ship in the USA.", "Support your pet's daily comfort with products picked for real-life use.", "Make every walk safer and every trip easier with smart pet accessories.", "Shop our top pet essentials and see why owners keep coming back.", "Save time on cleanup and care with products designed for convenience.", "Your pet deserves gear that works—without the high price tag.", "Get easy-to-use pet accessories for dogs and cats in one place.", "Better pet care starts with the right tools. Explore the pack today."]
+  }
+}

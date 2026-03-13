@@ -1,0 +1,27 @@
+{
+  "pack_id": "beauty-tools-pack-usa",
+  "pack_name": "Beauty Tools Pack (USA)",
+  "niche": "Beauty Tools",
+  "country": "USA",
+  "summary": "Easy-to-use beauty tools focused on home self-care routines.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "giftable", "ad-ready"],
+  "products": [
+    {"handle": "jade-face-roller", "title": "Cooling Face Roller", "description_preview": "Soothing facial massage tool for daily use.", "body_html": "<p>Refresh your skin with a cooling roller that supports a calming routine.</p>", "price": "13.99", "inventory_qty": 170, "tags": ["beauty", "skincare", "roller"]},
+    {"handle": "makeup-brush-cleaner", "title": "Electric Brush Cleaner", "description_preview": "Clean and dry makeup brushes quickly.", "body_html": "<p>Keep brushes fresh with fast spinning wash and dry technology.</p>", "price": "27.99", "inventory_qty": 80, "tags": ["beauty", "makeup", "cleaning"]},
+    {"handle": "heated-eyelash-curler", "title": "Heated Eyelash Curler", "description_preview": "Long-lasting curl with gentle heat.", "body_html": "<p>Create a natural curl in seconds with a USB rechargeable heated curler.</p>", "price": "16.99", "inventory_qty": 140, "tags": ["beauty", "lashes", "tool"]}
+  ],
+  "pages": {
+    "Home": "Discover beauty tools that make your daily routine simple and relaxing.",
+    "About": "We curate practical self-care products for beginners and beauty lovers.",
+    "FAQ": "Q: Are tools safe for sensitive skin? A: Yes, when used as directed.",
+    "Shipping Policy": "USA delivery takes around 5-8 business days.",
+    "Refund Policy": "30-day return support for damaged or incorrect products.",
+    "Privacy Policy": "We protect your personal information and process orders securely."
+  },
+  "marketing": {
+    "hooks": ["At-home beauty made easy.", "Upgrade your routine in minutes.", "Feel polished without the salon trip.", "Small tools, big glow-up.", "Beginner-friendly self-care starts here.", "Daily beauty, simplified.", "Look fresh with less effort.", "Affordable beauty essentials you’ll use.", "Self-care that fits your schedule.", "Your beauty routine, upgraded."],
+    "headlines": ["Beauty Tools for Everyday Glow", "Your At-Home Beauty Kit", "Simple Upgrades for Better Results", "Self-Care Tools You’ll Love", "Trending Beauty Essentials", "Beginner-Friendly Beauty Gear", "Fast Tools for Busy Mornings", "Affordable Beauty Must-Haves", "Refresh Your Routine Today", "Look Great in Less Time"],
+    "primary_texts": ["Make your beauty routine easier with practical tools built for everyday use.", "From skincare massage to lash styling, this pack helps customers get quick results.", "Stock giftable beauty products that are easy to market and easy to love.", "Perfect for beginners who want a simple routine with visible benefits.", "Offer your audience affordable self-care upgrades with modern appeal.", "This curated set gives your store a strong beauty starter lineup.", "Launch fast with ready product text, marketing copy, and CSV import.", "Smart tools that support confidence without expensive appointments.", "Give customers beauty essentials they can use from day one.", "Build a beauty niche store with products made for daily habits."]
+  }
+}

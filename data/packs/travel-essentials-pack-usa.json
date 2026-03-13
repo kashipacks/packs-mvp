@@ -1,0 +1,27 @@
+{
+  "pack_id": "travel-essentials-pack-usa",
+  "pack_name": "Travel Essentials Pack (USA)",
+  "niche": "Travel Essentials",
+  "country": "USA",
+  "summary": "Compact travel products for comfort, organization, and convenience.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "travel-ready", "trending"],
+  "products": [
+    {"handle": "compression-packing-cubes", "title": "Compression Packing Cubes", "description_preview": "Fit more clothes with organized cube sets.", "body_html": "<p>Pack smarter and save luggage space using durable compression zipper cubes.</p>", "price": "32.99", "inventory_qty": 105, "tags": ["travel", "organization", "luggage"]},
+    {"handle": "travel-bottle-set", "title": "Leak-Proof Travel Bottle Set", "description_preview": "TSA-friendly toiletry containers.", "body_html": "<p>Carry shampoo, lotion, and more in reusable leak-proof travel bottles.</p>", "price": "11.99", "inventory_qty": 190, "tags": ["travel", "toiletry", "tsa"]},
+    {"handle": "memory-foam-neck-pillow", "title": "Memory Foam Neck Pillow", "description_preview": "Supportive pillow for flights and road trips.", "body_html": "<p>Travel more comfortably with ergonomic memory foam and washable cover.</p>", "price": "23.99", "inventory_qty": 125, "tags": ["travel", "comfort", "flight"]}
+  ],
+  "pages": {
+    "Home": "Travel smarter with compact essentials for stress-free trips.",
+    "About": "Our store focuses on practical products that make travel easier.",
+    "FAQ": "Q: Are items carry-on friendly? A: Yes, many are designed for carry-on use.",
+    "Shipping Policy": "USA orders are delivered in 5-9 business days.",
+    "Refund Policy": "30-day return policy for eligible orders.",
+    "Privacy Policy": "Personal information is encrypted and used only for order handling."
+  },
+  "marketing": {
+    "hooks": ["Pack less, travel better.", "Travel essentials that save space.", "Comfort on every journey.", "Stay organized from airport to hotel.", "Smarter packing starts here.", "No leaks, no stress.", "Built for frequent flyers and weekend trips.", "Travel light, stay prepared.", "Essentials every traveler needs.", "Make every trip smoother."],
+    "headlines": ["Travel Essentials for Easy Trips", "Pack Smarter With This Kit", "Must-Have Travel Accessories", "Stress-Free Packing Starts Here", "Comfort + Organization in One Pack", "Top Travel Products for 2026", "Compact Gear, Big Convenience", "Upgrade Your Next Trip", "Travel Better With Less Hassle", "Your Go-To Travel Toolkit"],
+    "primary_texts": ["Give your customers practical travel accessories they’ll use on every trip.", "This pack combines comfort, organization, and convenience in one simple set.", "Perfect for vacationers, business travelers, and weekend explorers.", "Launch a travel niche store with products designed to solve real travel pain points.", "From packing cubes to neck pillows, every item supports smoother journeys.", "Use our done-for-you copy and Shopify CSV to get started quickly.", "Offer compact essentials that are easy to gift and easy to market.", "Travel products with strong utility and broad audience appeal.", "Help customers stay organized and comfortable anywhere they go.", "Start selling travel essentials with beginner-friendly store assets included."]
+  }
+}
