@@ -1,0 +1,67 @@
+{
+  "pack_id": "fitness-accessories-pack-usa",
+  "pack_name": "Fitness Accessories Pack (USA)",
+  "niche": "Fitness Accessories",
+  "country": "USA",
+  "summary": "Portable fitness accessories designed for home workouts, gym sessions, and active lifestyles.",
+  "vendor": "Packs MVP",
+  "badges": ["trending", "beginner friendly", "high-demand"],
+  "products": [
+    {"handle": "resistance-bands-set-5", "title": "Resistance Bands Set (5 Levels)", "description_preview": "Train strength anywhere with progressive resistance options.", "body_html": "<p>Full-body resistance band set includes handles, door anchor, and carry bag for versatile workouts.</p>", "price": "32.99", "inventory_qty": 170, "tags": ["fitness", "strength", "home-workout"]},
+    {"handle": "ab-wheel-knee-pad", "title": "Ab Roller with Knee Pad", "description_preview": "Build core strength with smooth, stable rolling action.", "body_html": "<p>Dual-wheel ab trainer supports controlled reps to target abs, shoulders, and lower back stability.</p>", "price": "21.99", "inventory_qty": 150, "tags": ["fitness", "core", "equipment"]},
+    {"handle": "jump-rope-weighted", "title": "Adjustable Weighted Jump Rope", "description_preview": "Boost cardio endurance with a customizable rope length.", "body_html": "<p>Ergonomic anti-slip handles and weighted design improve conditioning, coordination, and calorie burn.</p>", "price": "18.99", "inventory_qty": 210, "tags": ["cardio", "fitness", "conditioning"]},
+    {"handle": "foam-roller-high-density", "title": "High-Density Foam Roller", "description_preview": "Relieve muscle tightness after training sessions.", "body_html": "<p>Durable textured roller helps improve recovery, flexibility, and mobility for athletes and beginners.</p>", "price": "27.99", "inventory_qty": 125, "tags": ["recovery", "mobility", "fitness"]},
+    {"handle": "ankle-wrist-weights", "title": "Ankle & Wrist Weights (Pair)", "description_preview": "Add light resistance to walking, yoga, and HIIT workouts.", "body_html": "<p>Adjustable strap weights provide secure comfort for low-impact strength and endurance training.</p>", "price": "24.99", "inventory_qty": 160, "tags": ["fitness", "weights", "training"]},
+    {"handle": "yoga-mat-thick-nonslip", "title": "Extra-Thick Non-Slip Yoga Mat", "description_preview": "Supportive cushioning for yoga, Pilates, and stretching.", "body_html": "<p>Comfortable high-grip mat reduces slipping while protecting joints during floor-based exercise.</p>", "price": "34.99", "inventory_qty": 140, "tags": ["yoga", "mat", "wellness"]},
+    {"handle": "push-up-bars-ergonomic", "title": "Ergonomic Push-Up Bars", "description_preview": "Increase push-up depth and reduce wrist strain.", "body_html": "<p>Stable anti-skid bars improve upper-body training form for chest, shoulders, and triceps routines.</p>", "price": "19.99", "inventory_qty": 190, "tags": ["strength", "bodyweight", "fitness"]},
+    {"handle": "massage-gun-mini", "title": "Mini Percussion Massage Gun", "description_preview": "Target sore muscles with portable deep-tissue relief.", "body_html": "<p>Compact recovery device offers multiple speed settings and massage heads for post-workout care.</p>", "price": "59.99", "inventory_qty": 90, "tags": ["recovery", "massage", "fitness"]},
+    {"handle": "hydration-tracker-bottle", "title": "Motivational Water Bottle 1L", "description_preview": "Stay hydrated with time markers and leakproof design.", "body_html": "<p>Encourage consistent hydration habits with a BPA-free bottle built for gym and everyday carry.</p>", "price": "16.99", "inventory_qty": 220, "tags": ["hydration", "gym", "lifestyle"]},
+    {"handle": "workout-sliders-core", "title": "Core Workout Sliders", "description_preview": "Enhance stability and bodyweight routines on any surface.", "body_html": "<p>Dual-sided sliders activate core and glutes through low-impact movements ideal for home training.</p>", "price": "14.99", "inventory_qty": 200, "tags": ["core", "home-workout", "fitness"]}
+  ],
+  "pages": {
+    "Home": "Shop versatile fitness accessories that make workouts more effective at home or in the gym.",
+    "About": "We source practical workout gear that helps beginners and enthusiasts stay consistent and motivated.",
+    "FAQ": "Q: Are these products suitable for beginners? A: Yes, each item is chosen for easy use across fitness levels.",
+    "Shipping Policy": "Orders ship within 1-2 business days and typically arrive in 5-9 business days across the USA.",
+    "Refund Policy": "Returns are accepted within 30 days for defective or unused items in original condition.",
+    "Privacy Policy": "Your personal information is encrypted and used only for secure checkout, delivery, and support."
+  },
+  "marketing": {
+    "hooks": [
+      "Train anywhere with compact fitness gear.",
+      "Build your dream home gym on a budget.",
+      "Sweat smarter with accessories that work.",
+      "Level up workouts without bulky equipment.",
+      "Simple tools for stronger daily routines.",
+      "Recovery and performance in one pack.",
+      "Make every workout count.",
+      "From beginner to beast—start here.",
+      "Portable gear, powerful results.",
+      "Your fitness routine just got easier."
+    ],
+    "headlines": [
+      "Fitness Accessories That Sell",
+      "Home Workout Essentials Pack",
+      "Top Picks for Active Lifestyles",
+      "Train Harder, Recover Better",
+      "Best-Selling Gym Accessories",
+      "Portable Gear for Daily Fitness",
+      "Upgrade Every Workout Session",
+      "Strength & Cardio Starter Bundle",
+      "Build a Better Fitness Routine",
+      "Trending Workout Tools in 2026"
+    ],
+    "primary_texts": [
+      "This curated fitness pack includes high-demand accessories customers use for strength, cardio, and recovery.",
+      "Launch a workout niche store quickly with ready-made copy and versatile products for all experience levels.",
+      "From resistance bands to massage tools, these items support complete training and post-workout care.",
+      "Great for ecommerce brands targeting home gym users, busy professionals, and wellness-focused shoppers.",
+      "Offer compact gear that delivers real value without requiring expensive machines or large spaces.",
+      "Each product is selected for portability, repeat use, and broad appeal across fitness audiences.",
+      "Use included marketing angles to promote performance, convenience, and consistency.",
+      "Get conversion-ready product descriptions and ad creative prompts in one complete starter pack.",
+      "Designed to help new stores launch fast and test winning fitness offers with confidence.",
+      "Stock your fitness catalog with practical accessories shoppers can use every day."
+    ]
+  }
+}

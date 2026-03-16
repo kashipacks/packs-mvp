@@ -1,0 +1,67 @@
+{
+  "pack_id": "baby-essentials-pack-usa",
+  "pack_name": "Baby Essentials Pack (USA)",
+  "niche": "Baby Essentials",
+  "country": "USA",
+  "summary": "Parent-approved baby care essentials focused on feeding, comfort, safety, and daily convenience.",
+  "vendor": "Packs MVP",
+  "badges": ["family", "evergreen", "beginner friendly"],
+  "products": [
+    {"handle": "silicone-bibs-waterproof-3", "title": "Waterproof Silicone Bibs (3-Pack)", "description_preview": "Catch food messes with soft, easy-clean bibs.", "body_html": "<p>Food-catching pocket bibs are gentle on skin and simplify mealtime cleanup for busy parents.</p>", "price": "19.99", "inventory_qty": 190, "tags": ["baby", "feeding", "mealtime"]},
+    {"handle": "portable-bottle-warmer-usb", "title": "Portable USB Bottle Warmer", "description_preview": "Warm milk on-the-go during errands and travel.", "body_html": "<p>Travel-friendly bottle warmer keeps feedings convenient with adjustable temperature control.</p>", "price": "36.99", "inventory_qty": 120, "tags": ["baby", "feeding", "travel"]},
+    {"handle": "muslin-swaddle-blankets-set", "title": "Muslin Swaddle Blankets (4-Pack)", "description_preview": "Breathable wraps for naps, stroller use, and burping.", "body_html": "<p>Lightweight cotton muslin blankets provide comfort for swaddling, nursing cover, and tummy time.</p>", "price": "28.99", "inventory_qty": 150, "tags": ["baby", "sleep", "comfort"]},
+    {"handle": "baby-nail-trimmer-electric", "title": "Electric Baby Nail Trimmer", "description_preview": "Trim tiny nails safely without sharp clipping.", "body_html": "<p>Whisper-quiet baby nail file includes gentle pads for different ages and soft LED light.</p>", "price": "24.99", "inventory_qty": 135, "tags": ["baby", "grooming", "safety"]},
+    {"handle": "diaper-caddy-organizer", "title": "Portable Diaper Caddy Organizer", "description_preview": "Keep diapers, wipes, and creams organized room to room.", "body_html": "<p>Multi-compartment nursery caddy makes changing time faster at home or on visits.</p>", "price": "29.99", "inventory_qty": 145, "tags": ["baby", "nursery", "organization"]},
+    {"handle": "baby-hooded-towels-2", "title": "Hooded Baby Towels (2-Pack)", "description_preview": "Soft absorbent towels to keep babies warm after bath time.", "body_html": "<p>Ultra-soft bamboo blend towels are gentle on sensitive skin and dry quickly.</p>", "price": "26.99", "inventory_qty": 130, "tags": ["baby", "bath", "care"]},
+    {"handle": "pacifier-clip-set-silicone", "title": "Silicone Pacifier Clips (4-Pack)", "description_preview": "Prevent dropped pacifiers and keep soothing tools close.", "body_html": "<p>Durable BPA-free clips attach securely to clothes and bibs for cleaner pacifier use.</p>", "price": "15.99", "inventory_qty": 220, "tags": ["baby", "pacifier", "daily-use"]},
+    {"handle": "stroller-fan-rechargeable", "title": "Rechargeable Stroller Fan", "description_preview": "Keep babies cool on walks with flexible tripod mounting.", "body_html": "<p>Quiet, bladeless-style fan provides adjustable airflow for strollers, car seats, and cribs.</p>", "price": "31.99", "inventory_qty": 110, "tags": ["baby", "stroller", "summer"]},
+    {"handle": "baby-white-noise-machine", "title": "Portable White Noise Machine", "description_preview": "Support better naps and bedtime routines anywhere.", "body_html": "<p>Compact sleep soother features calming sounds, timer settings, and USB rechargeability.</p>", "price": "27.99", "inventory_qty": 125, "tags": ["baby", "sleep", "soothing"]},
+    {"handle": "high-chair-splash-mat", "title": "High Chair Splash Mat", "description_preview": "Protect floors from spills during feeding and crafts.", "body_html": "<p>Water-resistant easy-wipe mat catches food and messes under high chairs and play areas.</p>", "price": "22.99", "inventory_qty": 155, "tags": ["baby", "feeding", "cleanup"]}
+  ],
+  "pages": {
+    "Home": "Discover practical baby essentials that make feeding, sleep, and daily care easier for parents.",
+    "About": "We curate useful baby products designed to support new families with comfort, safety, and convenience.",
+    "FAQ": "Q: Are materials baby-safe? A: Yes, products are selected for gentle, parent-friendly everyday use.",
+    "Shipping Policy": "U.S. orders ship in 1-2 business days with estimated delivery in 5-9 business days.",
+    "Refund Policy": "Returns are accepted within 30 days for defective items or unused products in original condition.",
+    "Privacy Policy": "We protect family data and only use information required for secure checkout and delivery support."
+  },
+  "marketing": {
+    "hooks": [
+      "Make baby care routines easier every day.",
+      "Parent-approved essentials in one pack.",
+      "Less stress for new moms and dads.",
+      "Smart baby products for busy families.",
+      "Comfort, convenience, and care—covered.",
+      "Daily baby must-haves parents trust.",
+      "Simplify feeding, sleep, and cleanup.",
+      "Everything parents need to start strong.",
+      "Thoughtful essentials for little ones.",
+      "Support smoother days with your baby."
+    ],
+    "headlines": [
+      "Baby Essentials That Parents Love",
+      "Newborn & Infant Must-Haves",
+      "Top Baby Care Products in One Pack",
+      "Daily Baby Solutions for Families",
+      "Parent-Friendly Baby Starter Set",
+      "Best-Selling Baby Essentials (USA)",
+      "Feeding, Sleep & Care Basics",
+      "Smart Baby Products for New Parents",
+      "Make Baby Routines Simpler",
+      "Trusted Baby Everyday Essentials"
+    ],
+    "primary_texts": [
+      "Launch a family-focused store with practical baby essentials parents buy on repeat.",
+      "This curated pack covers feeding, comfort, grooming, and organization for everyday baby care.",
+      "Great for audiences of new parents looking for reliable products that reduce stress and save time.",
+      "From bibs to white noise machines, each item solves a real problem in infant routines.",
+      "Use included product copy and ad angles to start selling quickly in the evergreen baby niche.",
+      "These products are selected for convenience, safety-minded design, and giftable appeal.",
+      "Perfect for ecommerce stores targeting baby showers, newborn checklists, and parenting communities.",
+      "Offer high-utility essentials that support smoother mealtimes, naps, and on-the-go care.",
+      "A complete starter pack built to help your brand launch with confidence and clarity.",
+      "Stock a trusted baby collection with products parents can use from day one."
+    ]
+  }
+}
