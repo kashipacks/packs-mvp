@@ -1,0 +1,67 @@
+{
+  "pack_id": "car-accessories-pack-usa",
+  "pack_name": "Car Accessories Pack (USA)",
+  "niche": "Car Accessories",
+  "country": "USA",
+  "summary": "Convenient in-car upgrades that improve comfort, cleanliness, and everyday driving.",
+  "vendor": "Packs MVP",
+  "badges": ["evergreen", "problem-solver", "high-demand"],
+  "products": [
+    {"handle": "car-phone-mount-magsafe", "title": "Magnetic Car Phone Mount", "description_preview": "Secure your phone for hands-free navigation and calls.", "body_html": "<p>Strong magnetic hold and adjustable viewing angles keep your phone stable on bumpy roads.</p>", "price": "23.99", "inventory_qty": 200, "tags": ["car", "phone", "mount"]},
+    {"handle": "seat-gap-filler-organizer", "title": "Seat Gap Filler Organizer", "description_preview": "Stop dropped items and add quick-access storage.", "body_html": "<p>Fill the gap between seat and console while storing phones, cards, and keys in reach.</p>", "price": "17.99", "inventory_qty": 180, "tags": ["car", "organization", "interior"]},
+    {"handle": "portable-car-vacuum", "title": "Portable Car Vacuum Cleaner", "description_preview": "Clean dust, crumbs, and pet hair from seats and mats.", "body_html": "<p>Compact high-suction vacuum includes crevice tools for quick interior cleanup anytime.</p>", "price": "42.99", "inventory_qty": 110, "tags": ["car", "cleaning", "vacuum"]},
+    {"handle": "trunk-organizer-foldable", "title": "Foldable Trunk Organizer", "description_preview": "Keep groceries, tools, and emergency gear neatly sorted.", "body_html": "<p>Heavy-duty compartments and non-slip base prevent cargo movement while driving.</p>", "price": "31.99", "inventory_qty": 140, "tags": ["car", "storage", "trunk"]},
+    {"handle": "car-trash-can-leakproof", "title": "Leakproof Car Trash Bin", "description_preview": "Reduce clutter and keep your vehicle interior fresh.", "body_html": "<p>Water-resistant trash can hangs easily and includes side pockets for wipes and bags.</p>", "price": "18.99", "inventory_qty": 170, "tags": ["car", "clean", "interior"]},
+    {"handle": "sunshade-windshield-umbrella", "title": "Windshield Sunshade Umbrella", "description_preview": "Protect dashboards and lower cabin heat in seconds.", "body_html": "<p>Quick-open foldable sunshade blocks UV rays and helps keep parked cars cooler.</p>", "price": "25.99", "inventory_qty": 160, "tags": ["car", "summer", "protection"]},
+    {"handle": "dual-usb-car-charger-fast", "title": "Dual USB-C Fast Car Charger", "description_preview": "Charge two devices quickly during commutes and trips.", "body_html": "<p>Compact high-speed charger supports phones, tablets, and accessories with intelligent power output.</p>", "price": "15.99", "inventory_qty": 260, "tags": ["car", "charger", "tech"]},
+    {"handle": "blind-spot-mirror-set", "title": "Blind Spot Mirrors (2-Pack)", "description_preview": "Improve lane-change visibility with wider mirror coverage.", "body_html": "<p>Easy adhesive installation adds safer visibility for city driving, parking, and highways.</p>", "price": "11.99", "inventory_qty": 280, "tags": ["car", "safety", "mirror"]},
+    {"handle": "backseat-car-organizer-kids", "title": "Backseat Organizer with Tablet Holder", "description_preview": "Keep travel essentials organized for passengers and kids.", "body_html": "<p>Multiple pockets and a clear tablet sleeve reduce clutter and keep road trips stress-free.</p>", "price": "27.99", "inventory_qty": 150, "tags": ["car", "travel", "family"]},
+    {"handle": "microfiber-car-cleaning-gel", "title": "Car Interior Cleaning Gel", "description_preview": "Lift dust from vents, cup holders, and tight spaces.", "body_html": "<p>Reusable detailing gel reaches difficult areas to quickly refresh dashboards and consoles.</p>", "price": "12.99", "inventory_qty": 230, "tags": ["car", "detailing", "cleaning"]}
+  ],
+  "pages": {
+    "Home": "Upgrade your drive with practical car accessories for cleaner, safer, and more organized trips.",
+    "About": "We curate useful vehicle accessories that solve everyday driving pain points for modern car owners.",
+    "FAQ": "Q: Are these accessories universal? A: Most are compatible with standard vehicle interiors and setups.",
+    "Shipping Policy": "All U.S. orders are processed in 1-2 business days and delivered in approximately 5-9 business days.",
+    "Refund Policy": "You may request a return within 30 days for damaged, defective, or unopened products.",
+    "Privacy Policy": "Personal data is safeguarded and used only for secure ordering, fulfillment, and customer service."
+  },
+  "marketing": {
+    "hooks": [
+      "Drive cleaner, safer, and more organized.",
+      "Small car upgrades with big daily impact.",
+      "Make every commute more comfortable.",
+      "Fix common car clutter in minutes.",
+      "Smart accessories for every driver.",
+      "Protect your interior and simplify trips.",
+      "Hands-free convenience starts here.",
+      "Road-ready essentials customers love.",
+      "Keep your car neat without effort.",
+      "Better driving, one accessory at a time."
+    ],
+    "headlines": [
+      "Best-Selling Car Accessories",
+      "Everyday Upgrades for Any Vehicle",
+      "Car Essentials Drivers Actually Use",
+      "Cleaner, Smarter Car Interior Setup",
+      "Top Auto Accessories in Demand",
+      "Practical Gear for Daily Commutes",
+      "Road Trip Ready Car Must-Haves",
+      "Smart Car Products for 2026",
+      "Drive Better with Simple Add-Ons",
+      "Car Convenience Pack (USA)"
+    ],
+    "primary_texts": [
+      "Offer practical car accessories that solve real driving frustrations like clutter, charging, and visibility.",
+      "This pack combines utility and affordability, making it ideal for broad automotive ecommerce audiences.",
+      "From phone mounts to trunk organizers, these products are easy to market and easy to use.",
+      "Perfect for commuters, rideshare drivers, parents, and road trip enthusiasts across the U.S.",
+      "Launch faster with ready-to-use descriptions, page copy, and ad creative angles included.",
+      "Each product is selected to improve comfort, cleanliness, and convenience inside any car.",
+      "Use this starter pack to test evergreen offers in the high-intent automotive accessories niche.",
+      "Help customers maintain cleaner interiors and more organized travel with simple add-on products.",
+      "A conversion-friendly set of daily-use accessories with strong repeat purchase potential.",
+      "Build a reliable auto store catalog with products drivers consistently search for online."
+    ]
+  }
+}

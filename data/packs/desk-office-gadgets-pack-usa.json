@@ -1,0 +1,67 @@
+{
+  "pack_id": "desk-office-gadgets-pack-usa",
+  "pack_name": "Desk / Office Gadgets Pack (USA)",
+  "niche": "Desk / Office Gadgets",
+  "country": "USA",
+  "summary": "Productivity-focused desk gadgets that improve workflow, comfort, and workspace organization.",
+  "vendor": "Packs MVP",
+  "badges": ["productivity", "trending", "work-from-home"],
+  "products": [
+    {"handle": "laptop-stand-adjustable-aluminum", "title": "Adjustable Aluminum Laptop Stand", "description_preview": "Raise screen height for better posture and airflow.", "body_html": "<p>Foldable ergonomic stand reduces neck strain while improving desk setup comfort and cooling.</p>", "price": "37.99", "inventory_qty": 160, "tags": ["office", "ergonomic", "laptop"]},
+    {"handle": "wireless-keyboard-mouse-combo", "title": "Wireless Keyboard & Mouse Combo", "description_preview": "Clean, cable-free control for efficient daily work.", "body_html": "<p>Low-noise keys and responsive wireless mouse create a streamlined setup for home or office.</p>", "price": "49.99", "inventory_qty": 120, "tags": ["office", "wireless", "productivity"]},
+    {"handle": "desk-organizer-tray-bamboo", "title": "Bamboo Desk Organizer Tray", "description_preview": "Sort pens, notepads, and accessories in one compact station.", "body_html": "<p>Multi-slot organizer keeps desktop essentials visible and organized for distraction-free work.</p>", "price": "23.99", "inventory_qty": 175, "tags": ["desk", "organization", "office"]},
+    {"handle": "usb-c-hub-7in1", "title": "7-in-1 USB-C Hub", "description_preview": "Expand ports for monitors, drives, and peripherals instantly.", "body_html": "<p>Compact hub adds HDMI, USB, and SD card support to modern laptops for flexible workflows.</p>", "price": "45.99", "inventory_qty": 130, "tags": ["office", "tech", "connectivity"]},
+    {"handle": "monitor-light-bar", "title": "USB Monitor Light Bar", "description_preview": "Reduce eye strain with focused glare-free desk lighting.", "body_html": "<p>Screen-mounted light bar illuminates your workspace evenly for late-night work sessions.</p>", "price": "39.99", "inventory_qty": 115, "tags": ["office", "lighting", "productivity"]},
+    {"handle": "ergonomic-wrist-rest-set", "title": "Keyboard & Mouse Wrist Rest Set", "description_preview": "Support wrists during long typing and editing sessions.", "body_html": "<p>Memory foam wrist pads improve comfort and reduce fatigue for daily computer use.</p>", "price": "18.99", "inventory_qty": 210, "tags": ["office", "comfort", "ergonomic"]},
+    {"handle": "desktop-vacuum-mini", "title": "Mini Desktop Vacuum", "description_preview": "Quickly remove crumbs and dust from desks and keyboards.", "body_html": "<p>Rechargeable palm-sized vacuum keeps workstations clean without interrupting focus.</p>", "price": "21.99", "inventory_qty": 165, "tags": ["desk", "cleaning", "office"]},
+    {"handle": "cable-clips-silicone-12", "title": "Silicone Cable Clips (12-Pack)", "description_preview": "Keep charging and data cables neatly routed and accessible.", "body_html": "<p>Adhesive cable holders prevent tangling and help maintain a tidy workstation layout.</p>", "price": "12.99", "inventory_qty": 260, "tags": ["office", "cables", "organization"]},
+    {"handle": "focus-timer-cube-digital", "title": "Digital Focus Timer Cube", "description_preview": "Stay on task with simple countdown productivity sessions.", "body_html": "<p>Flip-style timer supports Pomodoro routines and deep work habits with quick presets.</p>", "price": "25.99", "inventory_qty": 140, "tags": ["productivity", "timer", "desk"]},
+    {"handle": "standing-desk-mat-comfort", "title": "Anti-Fatigue Standing Desk Mat", "description_preview": "Reduce leg and foot fatigue while working standing hours.", "body_html": "<p>High-density comfort mat supports posture and movement at standing desks and counters.</p>", "price": "43.99", "inventory_qty": 100, "tags": ["office", "standing-desk", "comfort"]}
+  ],
+  "pages": {
+    "Home": "Upgrade your workspace with desk gadgets that support focus, comfort, and daily productivity.",
+    "About": "We curate practical office tools for professionals, students, and remote workers who value efficient setups.",
+    "FAQ": "Q: Are these gadgets remote-work friendly? A: Yes, each product is selected for modern home and office workflows.",
+    "Shipping Policy": "Orders are dispatched in 1-2 business days and generally delivered within 5-9 business days in the USA.",
+    "Refund Policy": "Return requests are accepted within 30 days for damaged, defective, or unused products.",
+    "Privacy Policy": "Customer data is securely processed and used only for order handling, delivery, and support communication."
+  },
+  "marketing": {
+    "hooks": [
+      "Build a desk setup that boosts output.",
+      "Work smarter with modern office gadgets.",
+      "Declutter your desk, sharpen your focus.",
+      "Comfort and productivity in every item.",
+      "Small desk upgrades, major workflow gains.",
+      "Tools that make remote work easier.",
+      "Turn any desk into a power workspace.",
+      "Organize, optimize, and get more done.",
+      "Daily office essentials professionals love.",
+      "Your productivity setup starts here."
+    ],
+    "headlines": [
+      "Desk Gadgets for Maximum Productivity",
+      "Office Setup Essentials Pack",
+      "Top Work-From-Home Accessories",
+      "Upgrade Your Workspace Today",
+      "Smart Desk Tools That Sell",
+      "Ergonomic & Organized Office Picks",
+      "Best-Selling Office Gadgets (USA)",
+      "Focus-Friendly Desk Accessories",
+      "Practical Tools for Better Workflow",
+      "Complete Desk Upgrade Starter Pack"
+    ],
+    "primary_texts": [
+      "Launch an office niche store with productivity gadgets designed for remote workers and professionals.",
+      "This pack includes ergonomic, organizational, and tech tools that improve daily desk performance.",
+      "Perfect for audiences looking to work more comfortably and efficiently from home or the office.",
+      "From cable management to posture support, each product solves a common workspace frustration.",
+      "Use ready-made product descriptions and ad copy to publish fast and test offers quickly.",
+      "Great fit for productivity content creators, student markets, and professional lifestyle brands.",
+      "Curated office accessories help your store stand out with practical, high-utility products.",
+      "Offer customers affordable desk upgrades that deliver visible workflow improvements.",
+      "A conversion-ready set of modern office gadgets with broad year-round demand.",
+      "Build a trusted workspace collection shoppers return to for everyday efficiency."
+    ]
+  }
+}

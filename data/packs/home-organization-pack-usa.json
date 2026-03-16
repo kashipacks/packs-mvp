@@ -1,0 +1,67 @@
+{
+  "pack_id": "home-organization-pack-usa",
+  "pack_name": "Home Organization Pack (USA)",
+  "niche": "Home Organization",
+  "country": "USA",
+  "summary": "Space-saving organization products that help families keep every room tidy.",
+  "vendor": "Packs MVP",
+  "badges": ["beginner friendly", "home-use", "problem-solver"],
+  "products": [
+    {"handle": "under-bed-storage-bins-set", "title": "Under-Bed Storage Bins (2-Pack)", "description_preview": "Maximize hidden space for clothes, linens, and seasonal items.", "body_html": "<p>Store bulky items neatly with durable zippered under-bed bins featuring clear viewing windows and reinforced handles.</p>", "price": "39.99", "inventory_qty": 120, "tags": ["organization", "bedroom", "storage"]},
+    {"handle": "adjustable-drawer-dividers", "title": "Adjustable Drawer Dividers", "description_preview": "Create custom sections for kitchen, office, or dresser drawers.", "body_html": "<p>Spring-loaded dividers install in seconds and keep utensils, socks, and accessories perfectly separated.</p>", "price": "24.99", "inventory_qty": 180, "tags": ["organization", "drawer", "home"]},
+    {"handle": "clear-pantry-containers-airtight", "title": "Airtight Pantry Container Set", "description_preview": "Keep dry goods fresh and pantry shelves visually clean.", "body_html": "<p>This stackable clear container set includes labels and measuring scoops for rice, pasta, cereal, and snacks.</p>", "price": "49.99", "inventory_qty": 95, "tags": ["pantry", "kitchen", "storage"]},
+    {"handle": "closet-hanging-shelves", "title": "Hanging Closet Shelf Organizer", "description_preview": "Add instant vertical storage to closets without tools.", "body_html": "<p>Organize sweaters, handbags, and folded clothes using six sturdy hanging compartments.</p>", "price": "22.99", "inventory_qty": 140, "tags": ["closet", "organization", "bedroom"]},
+    {"handle": "cable-cord-management-box", "title": "Cable Management Box", "description_preview": "Hide power strips and tangled cables for a cleaner look.", "body_html": "<p>Reduce visual clutter and keep cords protected with a sleek cable box designed for home and office setups.</p>", "price": "19.99", "inventory_qty": 210, "tags": ["organization", "cable", "office"]},
+    {"handle": "rotating-makeup-organizer", "title": "360° Rotating Vanity Organizer", "description_preview": "Store skincare and cosmetics with easy access.", "body_html": "<p>Spin-to-reach carousel design keeps beauty products sorted on countertops while saving space.</p>", "price": "27.99", "inventory_qty": 130, "tags": ["vanity", "organization", "bathroom"]},
+    {"handle": "door-hanging-shoe-rack", "title": "Over-the-Door Shoe Rack", "description_preview": "Neatly store shoes and accessories behind any door.", "body_html": "<p>Space-efficient rack holds up to 24 pairs and works for shoes, cleaning supplies, or kids toys.</p>", "price": "29.99", "inventory_qty": 110, "tags": ["shoe-storage", "organization", "entryway"]},
+    {"handle": "stackable-fridge-bins", "title": "Stackable Fridge Organizer Bins", "description_preview": "Sort produce, snacks, and drinks for a clutter-free refrigerator.", "body_html": "<p>Clear BPA-free bins help categorize groceries, reduce waste, and make meal planning easier.</p>", "price": "26.99", "inventory_qty": 160, "tags": ["kitchen", "fridge", "organization"]},
+    {"handle": "foldable-laundry-sorter", "title": "3-Section Laundry Sorter", "description_preview": "Separate whites, darks, and delicates in one hamper.", "body_html": "<p>Rolling laundry cart with removable bags streamlines wash day for families and roommates.</p>", "price": "44.99", "inventory_qty": 85, "tags": ["laundry", "organization", "home"]},
+    {"handle": "label-maker-mini", "title": "Mini Label Maker", "description_preview": "Quickly label containers, folders, and storage zones.", "body_html": "<p>Create clean, readable labels from your phone to keep every room organized and easy to maintain.</p>", "price": "34.99", "inventory_qty": 145, "tags": ["labels", "organization", "productivity"]}
+  ],
+  "pages": {
+    "Home": "Create calm, clutter-free spaces with practical organization tools for every room.",
+    "About": "We curate everyday storage solutions that help busy households stay tidy without expensive remodels.",
+    "FAQ": "Q: Are assembly tools required? A: Most products are ready to use or require minimal setup.",
+    "Shipping Policy": "Orders are processed in 1-2 business days and typically delivered in 5-9 business days within the USA.",
+    "Refund Policy": "We offer a 30-day return window for damaged, defective, or unopened items.",
+    "Privacy Policy": "Customer information is securely handled and used only for checkout, shipping, and support."
+  },
+  "marketing": {
+    "hooks": [
+      "Turn cluttered rooms into calm spaces.",
+      "Organize your home one drawer at a time.",
+      "Small storage upgrades, big daily relief.",
+      "Simplify cleaning with smart organizers.",
+      "Everything in its place, finally.",
+      "Make your home feel bigger instantly.",
+      "Tidy systems that busy families can keep.",
+      "Storage essentials that actually get used.",
+      "Stop searching—start finding in seconds.",
+      "Declutter your home without the stress."
+    ],
+    "headlines": [
+      "Home Organization Must-Haves",
+      "Declutter Every Room Fast",
+      "Top Storage Picks for Busy Homes",
+      "Smart Organizers for Daily Life",
+      "Create a Cleaner, Calmer Home",
+      "Best-Selling Home Storage Tools",
+      "From Messy to Managed",
+      "Practical Organization Starts Here",
+      "Easy Storage Upgrades for Families",
+      "Your Home, Better Organized"
+    ],
+    "primary_texts": [
+      "Launch your store with high-demand organization products that solve everyday clutter problems.",
+      "This pack includes practical home essentials customers buy for kitchens, closets, and bedrooms.",
+      "Help shoppers create tidy spaces with products designed for easy setup and daily use.",
+      "Offer proven organization tools that make cleaning routines faster and less overwhelming.",
+      "Great for audiences focused on minimalism, productivity, and family-friendly home hacks.",
+      "From drawer dividers to pantry containers, these products are built for visual and functional upgrades.",
+      "Use ready-to-publish descriptions and ad copy to get your organization store live quickly.",
+      "A complete home organization starter pack built for conversion-friendly ecommerce listings.",
+      "Curated to reduce decision fatigue—10 useful products your audience already wants.",
+      "Scale a lifestyle niche store with everyday storage solutions that drive repeat purchases."
+    ]
+  }
+}
