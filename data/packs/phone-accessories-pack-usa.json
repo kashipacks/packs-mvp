@@ -5,11 +5,142 @@
   "country": "USA",
   "summary": "Popular phone add-ons focused on convenience and protection.",
   "vendor": "Packs MVP",
-  "badges": ["beginner friendly", "ad-ready", "trending"],
+  "badges": [
+    "beginner friendly",
+    "ad-ready",
+    "trending"
+  ],
   "products": [
-    {"handle": "magsafe-wallet", "title": "Magnetic Phone Wallet", "description_preview": "Slim card wallet that snaps on securely.", "body_html": "<p>Carry cards without bulk using a strong magnetic wallet made for daily use.</p>", "price": "21.99", "inventory_qty": 110, "tags": ["phone", "magsafe", "wallet"]},
-    {"handle": "fast-wireless-charger", "title": "15W Wireless Charger", "description_preview": "Fast, safe charging with anti-slip base.", "body_html": "<p>Power up quickly with stable, heat-controlled wireless charging support.</p>", "price": "24.99", "inventory_qty": 130, "tags": ["phone", "charger", "wireless"]},
-    {"handle": "camera-lens-protector", "title": "Camera Lens Protector Set", "description_preview": "Scratch-resistant lens guards for clear shots.", "body_html": "<p>Protect your camera lenses from scratches and drops while keeping image quality clear.</p>", "price": "12.99", "inventory_qty": 200, "tags": ["phone", "protection", "camera"]}
+    {
+      "handle": "magsafe-wallet",
+      "title": "Magnetic Phone Wallet",
+      "description_preview": "Slim card wallet that snaps on securely.",
+      "body_html": "<p>Carry cards without bulk using a strong magnetic wallet made for daily use.</p>",
+      "price": "21.99",
+      "inventory_qty": 110,
+      "tags": [
+        "phone",
+        "magsafe",
+        "wallet"
+      ]
+    },
+    {
+      "handle": "fast-wireless-charger",
+      "title": "15W Wireless Charger",
+      "description_preview": "Fast, safe charging with anti-slip base.",
+      "body_html": "<p>Power up quickly with stable, heat-controlled wireless charging support.</p>",
+      "price": "24.99",
+      "inventory_qty": 130,
+      "tags": [
+        "phone",
+        "charger",
+        "wireless"
+      ]
+    },
+    {
+      "handle": "camera-lens-protector",
+      "title": "Camera Lens Protector Set",
+      "description_preview": "Scratch-resistant lens guards for clear shots.",
+      "body_html": "<p>Protect your camera lenses from scratches and drops while keeping image quality clear.</p>",
+      "price": "12.99",
+      "inventory_qty": 200,
+      "tags": [
+        "phone",
+        "protection",
+        "camera"
+      ]
+    },
+    {
+      "handle": "tempered-glass-screen-protector",
+      "title": "Tempered Glass Screen Protector (2-Pack)",
+      "description_preview": "Add shatter-resistant screen coverage with easy alignment.",
+      "body_html": "<p>Crystal-clear tempered glass shields help reduce scratches, smudges, and everyday drop damage.</p>",
+      "price": "13.99",
+      "inventory_qty": 240,
+      "tags": [
+        "phone",
+        "screen",
+        "protection"
+      ]
+    },
+    {
+      "handle": "usb-c-fast-charge-cable",
+      "title": "Braided USB-C Fast Charge Cable",
+      "description_preview": "Durable charging cable built for daily bending and travel.",
+      "body_html": "<p>Nylon-braided cable supports fast charging while resisting tangles and fraying over time.</p>",
+      "price": "11.99",
+      "inventory_qty": 260,
+      "tags": [
+        "phone",
+        "cable",
+        "charging"
+      ]
+    },
+    {
+      "handle": "phone-tripod-remote",
+      "title": "Phone Tripod with Bluetooth Remote",
+      "description_preview": "Capture stable videos, selfies, and livestreams hands-free.",
+      "body_html": "<p>Extendable tripod stand and wireless shutter remote make content creation simple anywhere.</p>",
+      "price": "27.99",
+      "inventory_qty": 125,
+      "tags": [
+        "phone",
+        "content",
+        "tripod"
+      ]
+    },
+    {
+      "handle": "silicone-phone-grip-strap",
+      "title": "Silicone Phone Grip Strap",
+      "description_preview": "Adds one-hand comfort for texting, photos, and scrolling.",
+      "body_html": "<p>Flexible back grip improves hold security and reduces drop risk during busy daily use.</p>",
+      "price": "9.99",
+      "inventory_qty": 310,
+      "tags": [
+        "phone",
+        "grip",
+        "accessory"
+      ]
+    },
+    {
+      "handle": "waterproof-phone-pouch",
+      "title": "Waterproof Phone Pouch",
+      "description_preview": "Protects phones from splashes, sand, and poolside mess.",
+      "body_html": "<p>Touch-compatible waterproof pouch keeps devices dry during beach trips, boating, and workouts.</p>",
+      "price": "14.99",
+      "inventory_qty": 190,
+      "tags": [
+        "phone",
+        "travel",
+        "waterproof"
+      ]
+    },
+    {
+      "handle": "foldable-phone-stand",
+      "title": "Foldable Desk Phone Stand",
+      "description_preview": "Adjust viewing angle for calls, videos, and charging.",
+      "body_html": "<p>Compact adjustable stand supports comfortable hands-free viewing at desks, counters, and nightstands.</p>",
+      "price": "10.99",
+      "inventory_qty": 220,
+      "tags": [
+        "phone",
+        "desk",
+        "stand"
+      ]
+    },
+    {
+      "handle": "car-phone-charger-mount",
+      "title": "Auto-Clamp Car Charger Mount",
+      "description_preview": "Secure mount that charges while you drive.",
+      "body_html": "<p>Dashboard and vent-compatible holder keeps phones visible and powered during navigation.</p>",
+      "price": "29.99",
+      "inventory_qty": 115,
+      "tags": [
+        "phone",
+        "car",
+        "charging"
+      ]
+    }
   ],
   "pages": {
     "Home": "Welcome to your one-stop shop for everyday phone upgrades.",
@@ -20,8 +151,41 @@
     "Privacy Policy": "Your checkout data is encrypted and only used to process orders."
   },
   "marketing": {
-    "hooks": ["Protect your phone, simplify your day.", "No cable clutter, just fast power.", "Your phone deserves better accessories.", "Slim style meets everyday utility.", "Snap on and go.", "Keep your camera safe and sharp.", "Upgrade without overspending.", "Small accessories, big convenience.", "Designed for modern phone users.", "Make your phone work smarter."],
-    "headlines": ["Best Phone Accessories in One Pack", "Everyday Upgrades for Your Phone", "Charge Faster, Carry Less", "Protect Your Phone in Style", "Smart Add-Ons for Busy Days", "Magnetic Gear You’ll Actually Use", "Popular Phone Essentials", "Sleek Accessories, Real Value", "Phone Protection Meets Convenience", "Shop Trending Phone Picks"],
-    "primary_texts": ["Get our handpicked phone accessories built for convenience, style, and everyday use.", "From wireless charging to camera protection, this pack covers your daily essentials.", "Shop beginner-friendly products that are easy to market and easy to sell.", "Offer your customers practical phone upgrades they can use immediately.", "This set combines trending accessories with strong value and clean design.", "Boost your store with phone products customers already search for.", "Simple, useful, and giftable—perfect for fast-moving ecommerce stores.", "Curated to reduce decision fatigue and help you launch quickly.", "Stock your store with proven phone accessories in one ready pack.", "Start selling useful phone essentials with ready-made copy and CSV import."]
+    "hooks": [
+      "Protect your phone, simplify your day.",
+      "No cable clutter, just fast power.",
+      "Your phone deserves better accessories.",
+      "Slim style meets everyday utility.",
+      "Snap on and go.",
+      "Keep your camera safe and sharp.",
+      "Upgrade without overspending.",
+      "Small accessories, big convenience.",
+      "Designed for modern phone users.",
+      "Make your phone work smarter."
+    ],
+    "headlines": [
+      "Best Phone Accessories in One Pack",
+      "Everyday Upgrades for Your Phone",
+      "Charge Faster, Carry Less",
+      "Protect Your Phone in Style",
+      "Smart Add-Ons for Busy Days",
+      "Magnetic Gear You\u2019ll Actually Use",
+      "Popular Phone Essentials",
+      "Sleek Accessories, Real Value",
+      "Phone Protection Meets Convenience",
+      "Shop Trending Phone Picks"
+    ],
+    "primary_texts": [
+      "Get our handpicked phone accessories built for convenience, style, and everyday use.",
+      "From wireless charging to camera protection, this pack covers your daily essentials.",
+      "Shop beginner-friendly products that are easy to market and easy to sell.",
+      "Offer your customers practical phone upgrades they can use immediately.",
+      "This set combines trending accessories with strong value and clean design.",
+      "Boost your store with phone products customers already search for.",
+      "Simple, useful, and giftable\u2014perfect for fast-moving ecommerce stores.",
+      "Curated to reduce decision fatigue and help you launch quickly.",
+      "Stock your store with proven phone accessories in one ready pack.",
+      "Start selling useful phone essentials with ready-made copy and CSV import."
+    ]
   }
 }

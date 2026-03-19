@@ -5,11 +5,142 @@
   "country": "USA",
   "summary": "Compact travel products for comfort, organization, and convenience.",
   "vendor": "Packs MVP",
-  "badges": ["beginner friendly", "travel-ready", "trending"],
+  "badges": [
+    "beginner friendly",
+    "travel-ready",
+    "trending"
+  ],
   "products": [
-    {"handle": "compression-packing-cubes", "title": "Compression Packing Cubes", "description_preview": "Fit more clothes with organized cube sets.", "body_html": "<p>Pack smarter and save luggage space using durable compression zipper cubes.</p>", "price": "32.99", "inventory_qty": 105, "tags": ["travel", "organization", "luggage"]},
-    {"handle": "travel-bottle-set", "title": "Leak-Proof Travel Bottle Set", "description_preview": "TSA-friendly toiletry containers.", "body_html": "<p>Carry shampoo, lotion, and more in reusable leak-proof travel bottles.</p>", "price": "11.99", "inventory_qty": 190, "tags": ["travel", "toiletry", "tsa"]},
-    {"handle": "memory-foam-neck-pillow", "title": "Memory Foam Neck Pillow", "description_preview": "Supportive pillow for flights and road trips.", "body_html": "<p>Travel more comfortably with ergonomic memory foam and washable cover.</p>", "price": "23.99", "inventory_qty": 125, "tags": ["travel", "comfort", "flight"]}
+    {
+      "handle": "compression-packing-cubes",
+      "title": "Compression Packing Cubes",
+      "description_preview": "Fit more clothes with organized cube sets.",
+      "body_html": "<p>Pack smarter and save luggage space using durable compression zipper cubes.</p>",
+      "price": "32.99",
+      "inventory_qty": 105,
+      "tags": [
+        "travel",
+        "organization",
+        "luggage"
+      ]
+    },
+    {
+      "handle": "travel-bottle-set",
+      "title": "Leak-Proof Travel Bottle Set",
+      "description_preview": "TSA-friendly toiletry containers.",
+      "body_html": "<p>Carry shampoo, lotion, and more in reusable leak-proof travel bottles.</p>",
+      "price": "11.99",
+      "inventory_qty": 190,
+      "tags": [
+        "travel",
+        "toiletry",
+        "tsa"
+      ]
+    },
+    {
+      "handle": "memory-foam-neck-pillow",
+      "title": "Memory Foam Neck Pillow",
+      "description_preview": "Supportive pillow for flights and road trips.",
+      "body_html": "<p>Travel more comfortably with ergonomic memory foam and washable cover.</p>",
+      "price": "23.99",
+      "inventory_qty": 125,
+      "tags": [
+        "travel",
+        "comfort",
+        "flight"
+      ]
+    },
+    {
+      "handle": "passport-wallet-rfid",
+      "title": "RFID Passport Wallet",
+      "description_preview": "Keep passports, cards, and boarding passes together securely.",
+      "body_html": "<p>Zip-around travel wallet organizes essentials while RFID-blocking layers add extra peace of mind.</p>",
+      "price": "19.99",
+      "inventory_qty": 170,
+      "tags": [
+        "travel",
+        "security",
+        "organization"
+      ]
+    },
+    {
+      "handle": "portable-luggage-scale",
+      "title": "Digital Luggage Scale",
+      "description_preview": "Avoid surprise baggage fees before airport check-in.",
+      "body_html": "<p>Compact handheld scale gives quick, accurate suitcase weights for smarter packing decisions.</p>",
+      "price": "14.99",
+      "inventory_qty": 210,
+      "tags": [
+        "travel",
+        "luggage",
+        "airport"
+      ]
+    },
+    {
+      "handle": "travel-cable-organizer",
+      "title": "Travel Tech Organizer Case",
+      "description_preview": "Store chargers, earbuds, cords, and adapters in one pouch.",
+      "body_html": "<p>Elastic loops and zip pockets keep your travel electronics protected and easy to find.</p>",
+      "price": "18.99",
+      "inventory_qty": 165,
+      "tags": [
+        "travel",
+        "tech",
+        "organization"
+      ]
+    },
+    {
+      "handle": "sleep-mask-earplug-set",
+      "title": "Contoured Sleep Mask & Earplug Set",
+      "description_preview": "Rest better on planes, trains, and in hotel rooms.",
+      "body_html": "<p>Light-blocking mask and soft earplugs help travelers create a more restful sleep environment anywhere.</p>",
+      "price": "13.99",
+      "inventory_qty": 220,
+      "tags": [
+        "travel",
+        "sleep",
+        "comfort"
+      ]
+    },
+    {
+      "handle": "portable-door-lock",
+      "title": "Portable Travel Door Lock",
+      "description_preview": "Add an extra layer of room security in seconds.",
+      "body_html": "<p>Compact lock installs without tools to provide added privacy in hotels, rentals, and dorms.</p>",
+      "price": "15.99",
+      "inventory_qty": 185,
+      "tags": [
+        "travel",
+        "security",
+        "hotel"
+      ]
+    },
+    {
+      "handle": "foldable-weekender-bag",
+      "title": "Foldable Weekender Duffel Bag",
+      "description_preview": "Pack an extra bag for souvenirs, shoes, or quick overnights.",
+      "body_html": "<p>Lightweight fold-flat duffel expands into roomy carry-on-friendly storage when you need extra capacity.</p>",
+      "price": "27.99",
+      "inventory_qty": 130,
+      "tags": [
+        "travel",
+        "bag",
+        "weekend"
+      ]
+    },
+    {
+      "handle": "universal-travel-adapter-usb",
+      "title": "Universal Travel Adapter with USB Ports",
+      "description_preview": "Charge devices internationally from one compact adapter.",
+      "body_html": "<p>All-in-one plug adapter supports common outlet types and multiple USB ports for streamlined charging abroad.</p>",
+      "price": "34.99",
+      "inventory_qty": 115,
+      "tags": [
+        "travel",
+        "adapter",
+        "charging"
+      ]
+    }
   ],
   "pages": {
     "Home": "Travel smarter with compact essentials for stress-free trips.",
@@ -20,8 +151,41 @@
     "Privacy Policy": "Personal information is encrypted and used only for order handling."
   },
   "marketing": {
-    "hooks": ["Pack less, travel better.", "Travel essentials that save space.", "Comfort on every journey.", "Stay organized from airport to hotel.", "Smarter packing starts here.", "No leaks, no stress.", "Built for frequent flyers and weekend trips.", "Travel light, stay prepared.", "Essentials every traveler needs.", "Make every trip smoother."],
-    "headlines": ["Travel Essentials for Easy Trips", "Pack Smarter With This Kit", "Must-Have Travel Accessories", "Stress-Free Packing Starts Here", "Comfort + Organization in One Pack", "Top Travel Products for 2026", "Compact Gear, Big Convenience", "Upgrade Your Next Trip", "Travel Better With Less Hassle", "Your Go-To Travel Toolkit"],
-    "primary_texts": ["Give your customers practical travel accessories they’ll use on every trip.", "This pack combines comfort, organization, and convenience in one simple set.", "Perfect for vacationers, business travelers, and weekend explorers.", "Launch a travel niche store with products designed to solve real travel pain points.", "From packing cubes to neck pillows, every item supports smoother journeys.", "Use our done-for-you copy and Shopify CSV to get started quickly.", "Offer compact essentials that are easy to gift and easy to market.", "Travel products with strong utility and broad audience appeal.", "Help customers stay organized and comfortable anywhere they go.", "Start selling travel essentials with beginner-friendly store assets included."]
+    "hooks": [
+      "Pack less, travel better.",
+      "Travel essentials that save space.",
+      "Comfort on every journey.",
+      "Stay organized from airport to hotel.",
+      "Smarter packing starts here.",
+      "No leaks, no stress.",
+      "Built for frequent flyers and weekend trips.",
+      "Travel light, stay prepared.",
+      "Essentials every traveler needs.",
+      "Make every trip smoother."
+    ],
+    "headlines": [
+      "Travel Essentials for Easy Trips",
+      "Pack Smarter With This Kit",
+      "Must-Have Travel Accessories",
+      "Stress-Free Packing Starts Here",
+      "Comfort + Organization in One Pack",
+      "Top Travel Products for 2026",
+      "Compact Gear, Big Convenience",
+      "Upgrade Your Next Trip",
+      "Travel Better With Less Hassle",
+      "Your Go-To Travel Toolkit"
+    ],
+    "primary_texts": [
+      "Give your customers practical travel accessories they\u2019ll use on every trip.",
+      "This pack combines comfort, organization, and convenience in one simple set.",
+      "Perfect for vacationers, business travelers, and weekend explorers.",
+      "Launch a travel niche store with products designed to solve real travel pain points.",
+      "From packing cubes to neck pillows, every item supports smoother journeys.",
+      "Use our done-for-you copy and Shopify CSV to get started quickly.",
+      "Offer compact essentials that are easy to gift and easy to market.",
+      "Travel products with strong utility and broad audience appeal.",
+      "Help customers stay organized and comfortable anywhere they go.",
+      "Start selling travel essentials with beginner-friendly store assets included."
+    ]
   }
 }
