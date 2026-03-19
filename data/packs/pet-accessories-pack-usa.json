@@ -5,11 +5,142 @@
   "country": "USA",
   "summary": "A starter set of practical pet accessories for dog and cat owners.",
   "vendor": "Packs MVP",
-  "badges": ["beginner friendly", "ad-ready", "trending"],
+  "badges": [
+    "beginner friendly",
+    "ad-ready",
+    "trending"
+  ],
   "products": [
-    {"handle": "pet-water-bottle", "title": "Portable Pet Water Bottle", "description_preview": "Travel-friendly bottle with one-hand water release.", "body_html": "<p>Keep pets hydrated on walks with a leak-proof, one-hand water bottle.</p>", "price": "19.99", "inventory_qty": 120, "tags": ["pet", "travel", "hydration"]},
-    {"handle": "self-grooming-brush", "title": "Self-Cleaning Grooming Brush", "description_preview": "Removes loose fur quickly and safely.", "body_html": "<p>Gentle bristles remove loose fur and the one-click release keeps cleanup easy.</p>", "price": "15.99", "inventory_qty": 150, "tags": ["pet", "grooming", "dog"]},
-    {"handle": "led-dog-collar", "title": "LED Safety Dog Collar", "description_preview": "Night-visibility collar with USB charging.", "body_html": "<p>Improve evening walk safety with bright LED light modes and a comfortable fit.</p>", "price": "17.99", "inventory_qty": 90, "tags": ["pet", "safety", "night"]}
+    {
+      "handle": "pet-water-bottle",
+      "title": "Portable Pet Water Bottle",
+      "description_preview": "Travel-friendly bottle with one-hand water release.",
+      "body_html": "<p>Keep pets hydrated on walks with a leak-proof, one-hand water bottle.</p>",
+      "price": "19.99",
+      "inventory_qty": 120,
+      "tags": [
+        "pet",
+        "travel",
+        "hydration"
+      ]
+    },
+    {
+      "handle": "self-grooming-brush",
+      "title": "Self-Cleaning Grooming Brush",
+      "description_preview": "Removes loose fur quickly and safely.",
+      "body_html": "<p>Gentle bristles remove loose fur and the one-click release keeps cleanup easy.</p>",
+      "price": "15.99",
+      "inventory_qty": 150,
+      "tags": [
+        "pet",
+        "grooming",
+        "dog"
+      ]
+    },
+    {
+      "handle": "led-dog-collar",
+      "title": "LED Safety Dog Collar",
+      "description_preview": "Night-visibility collar with USB charging.",
+      "body_html": "<p>Improve evening walk safety with bright LED light modes and a comfortable fit.</p>",
+      "price": "17.99",
+      "inventory_qty": 90,
+      "tags": [
+        "pet",
+        "safety",
+        "night"
+      ]
+    },
+    {
+      "handle": "slow-feeder-bowl",
+      "title": "Slow Feeder Pet Bowl",
+      "description_preview": "Helps reduce fast eating and messy mealtimes.",
+      "body_html": "<p>Maze-style bowl encourages slower eating habits to support digestion for dogs and cats.</p>",
+      "price": "16.99",
+      "inventory_qty": 145,
+      "tags": [
+        "pet",
+        "feeding",
+        "health"
+      ]
+    },
+    {
+      "handle": "paw-cleaner-cup",
+      "title": "Silicone Paw Cleaner Cup",
+      "description_preview": "Rinses muddy paws before they reach your floors.",
+      "body_html": "<p>Soft silicone bristles gently clean dirty paws after walks, hikes, and rainy-day outings.</p>",
+      "price": "14.99",
+      "inventory_qty": 160,
+      "tags": [
+        "pet",
+        "cleaning",
+        "outdoor"
+      ]
+    },
+    {
+      "handle": "pet-seat-belt-leash",
+      "title": "Adjustable Pet Seat Belt Leash",
+      "description_preview": "Keeps pets safer and more secure during car rides.",
+      "body_html": "<p>Clip-in travel tether helps limit distracting movement while making road trips more comfortable.</p>",
+      "price": "13.99",
+      "inventory_qty": 180,
+      "tags": [
+        "pet",
+        "travel",
+        "safety"
+      ]
+    },
+    {
+      "handle": "lint-roller-reusable-pet",
+      "title": "Reusable Pet Hair Lint Roller",
+      "description_preview": "Lift fur from couches, clothes, and car seats fast.",
+      "body_html": "<p>Mess-free reusable roller removes pet hair without sticky sheets and stores easily between uses.</p>",
+      "price": "18.99",
+      "inventory_qty": 140,
+      "tags": [
+        "pet",
+        "cleanup",
+        "home"
+      ]
+    },
+    {
+      "handle": "cat-teaser-wand-set",
+      "title": "Interactive Cat Teaser Wand Set",
+      "description_preview": "Encourages active play and bonding at home.",
+      "body_html": "<p>Multiple feather and bell attachments keep indoor cats stimulated with fast, engaging exercise.</p>",
+      "price": "12.99",
+      "inventory_qty": 170,
+      "tags": [
+        "pet",
+        "cat",
+        "play"
+      ]
+    },
+    {
+      "handle": "dog-poop-bag-dispenser",
+      "title": "Dog Waste Bag Dispenser",
+      "description_preview": "Clip-on holder keeps pickup bags ready on every walk.",
+      "body_html": "<p>Compact dispenser attaches to leashes or belts so cleanup bags are always within reach.</p>",
+      "price": "10.99",
+      "inventory_qty": 240,
+      "tags": [
+        "pet",
+        "walk",
+        "daily-use"
+      ]
+    },
+    {
+      "handle": "pet-calming-mat",
+      "title": "Plush Calming Pet Mat",
+      "description_preview": "Soft resting spot designed for cozy naps and comfort.",
+      "body_html": "<p>Ultra-soft padded mat gives pets a calming place to relax in crates, corners, or beside the bed.</p>",
+      "price": "24.99",
+      "inventory_qty": 115,
+      "tags": [
+        "pet",
+        "comfort",
+        "home"
+      ]
+    }
   ],
   "pages": {
     "Home": "Welcome to our pet essentials store. We help pet parents get practical accessories with fast USA shipping.",
@@ -20,8 +151,41 @@
     "Privacy Policy": "We collect only the data needed to process your order securely and never sell personal data."
   },
   "marketing": {
-    "hooks": ["Make walks easier for you and your pet.", "Hydration made simple on every outing.", "Less mess, less stress grooming.", "Pet safety after dark starts here.", "Small upgrades, happier pets.", "Designed for busy pet parents.", "Daily pet care made easier.", "Comfort and convenience in every product.", "Trusted picks for dogs and cats.", "Get pet essentials that actually help."],
-    "headlines": ["Top-Rated Pet Accessories", "Upgrade Your Pet Routine", "Walk, Groom, Repeat", "Pet Essentials for Everyday", "Safer Night Walks Start Here", "Hydration on the Go", "Smart Pet Gear for Busy Owners", "Loved by Dog and Cat Parents", "Shop Must-Have Pet Tools", "Simple Products, Happy Pets"],
-    "primary_texts": ["Discover practical pet accessories that make care routines faster and easier.", "From grooming to travel, these bestsellers help your pet stay happy and safe.", "Our pet tools are beginner-friendly, affordable, and ready to ship in the USA.", "Support your pet's daily comfort with products picked for real-life use.", "Make every walk safer and every trip easier with smart pet accessories.", "Shop our top pet essentials and see why owners keep coming back.", "Save time on cleanup and care with products designed for convenience.", "Your pet deserves gear that works—without the high price tag.", "Get easy-to-use pet accessories for dogs and cats in one place.", "Better pet care starts with the right tools. Explore the pack today."]
+    "hooks": [
+      "Make walks easier for you and your pet.",
+      "Hydration made simple on every outing.",
+      "Less mess, less stress grooming.",
+      "Pet safety after dark starts here.",
+      "Small upgrades, happier pets.",
+      "Designed for busy pet parents.",
+      "Daily pet care made easier.",
+      "Comfort and convenience in every product.",
+      "Trusted picks for dogs and cats.",
+      "Get pet essentials that actually help."
+    ],
+    "headlines": [
+      "Top-Rated Pet Accessories",
+      "Upgrade Your Pet Routine",
+      "Walk, Groom, Repeat",
+      "Pet Essentials for Everyday",
+      "Safer Night Walks Start Here",
+      "Hydration on the Go",
+      "Smart Pet Gear for Busy Owners",
+      "Loved by Dog and Cat Parents",
+      "Shop Must-Have Pet Tools",
+      "Simple Products, Happy Pets"
+    ],
+    "primary_texts": [
+      "Discover practical pet accessories that make care routines faster and easier.",
+      "From grooming to travel, these bestsellers help your pet stay happy and safe.",
+      "Our pet tools are beginner-friendly, affordable, and ready to ship in the USA.",
+      "Support your pet's daily comfort with products picked for real-life use.",
+      "Make every walk safer and every trip easier with smart pet accessories.",
+      "Shop our top pet essentials and see why owners keep coming back.",
+      "Save time on cleanup and care with products designed for convenience.",
+      "Your pet deserves gear that works\u2014without the high price tag.",
+      "Get easy-to-use pet accessories for dogs and cats in one place.",
+      "Better pet care starts with the right tools. Explore the pack today."
+    ]
   }
 }

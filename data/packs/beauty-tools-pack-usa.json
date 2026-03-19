@@ -5,11 +5,142 @@
   "country": "USA",
   "summary": "Easy-to-use beauty tools focused on home self-care routines.",
   "vendor": "Packs MVP",
-  "badges": ["beginner friendly", "giftable", "ad-ready"],
+  "badges": [
+    "beginner friendly",
+    "giftable",
+    "ad-ready"
+  ],
   "products": [
-    {"handle": "jade-face-roller", "title": "Cooling Face Roller", "description_preview": "Soothing facial massage tool for daily use.", "body_html": "<p>Refresh your skin with a cooling roller that supports a calming routine.</p>", "price": "13.99", "inventory_qty": 170, "tags": ["beauty", "skincare", "roller"]},
-    {"handle": "makeup-brush-cleaner", "title": "Electric Brush Cleaner", "description_preview": "Clean and dry makeup brushes quickly.", "body_html": "<p>Keep brushes fresh with fast spinning wash and dry technology.</p>", "price": "27.99", "inventory_qty": 80, "tags": ["beauty", "makeup", "cleaning"]},
-    {"handle": "heated-eyelash-curler", "title": "Heated Eyelash Curler", "description_preview": "Long-lasting curl with gentle heat.", "body_html": "<p>Create a natural curl in seconds with a USB rechargeable heated curler.</p>", "price": "16.99", "inventory_qty": 140, "tags": ["beauty", "lashes", "tool"]}
+    {
+      "handle": "jade-face-roller",
+      "title": "Cooling Face Roller",
+      "description_preview": "Soothing facial massage tool for daily use.",
+      "body_html": "<p>Refresh your skin with a cooling roller that supports a calming routine.</p>",
+      "price": "13.99",
+      "inventory_qty": 170,
+      "tags": [
+        "beauty",
+        "skincare",
+        "roller"
+      ]
+    },
+    {
+      "handle": "makeup-brush-cleaner",
+      "title": "Electric Brush Cleaner",
+      "description_preview": "Clean and dry makeup brushes quickly.",
+      "body_html": "<p>Keep brushes fresh with fast spinning wash and dry technology.</p>",
+      "price": "27.99",
+      "inventory_qty": 80,
+      "tags": [
+        "beauty",
+        "makeup",
+        "cleaning"
+      ]
+    },
+    {
+      "handle": "heated-eyelash-curler",
+      "title": "Heated Eyelash Curler",
+      "description_preview": "Long-lasting curl with gentle heat.",
+      "body_html": "<p>Create a natural curl in seconds with a USB rechargeable heated curler.</p>",
+      "price": "16.99",
+      "inventory_qty": 140,
+      "tags": [
+        "beauty",
+        "lashes",
+        "tool"
+      ]
+    },
+    {
+      "handle": "facial-ice-globes",
+      "title": "Reusable Facial Ice Globes",
+      "description_preview": "Cool and depuff skin during morning skincare routines.",
+      "body_html": "<p>Chilled glass globes help calm skin appearance while adding a spa-like touch to daily self-care.</p>",
+      "price": "22.99",
+      "inventory_qty": 120,
+      "tags": [
+        "beauty",
+        "skincare",
+        "massage"
+      ]
+    },
+    {
+      "handle": "dermaplane-razor-set",
+      "title": "Dermaplane Razor Set",
+      "description_preview": "Shape brows and remove peach fuzz with precision.",
+      "body_html": "<p>Protective-cover razors support smoother makeup application and quick touch-ups at home.</p>",
+      "price": "11.99",
+      "inventory_qty": 230,
+      "tags": [
+        "beauty",
+        "grooming",
+        "face"
+      ]
+    },
+    {
+      "handle": "silicone-face-mask-brush",
+      "title": "Silicone Face Mask Applicator Brush",
+      "description_preview": "Apply clay and cream masks cleanly without finger mess.",
+      "body_html": "<p>Soft flexible applicator spreads product evenly and rinses clean faster than traditional brushes.</p>",
+      "price": "9.99",
+      "inventory_qty": 260,
+      "tags": [
+        "beauty",
+        "skincare",
+        "application"
+      ]
+    },
+    {
+      "handle": "makeup-sponges-set",
+      "title": "Latex-Free Makeup Sponge Set",
+      "description_preview": "Blend foundation and concealer for a smooth finish.",
+      "body_html": "<p>Soft multi-shape sponges expand with water to help create seamless everyday makeup looks.</p>",
+      "price": "12.99",
+      "inventory_qty": 210,
+      "tags": [
+        "beauty",
+        "makeup",
+        "blending"
+      ]
+    },
+    {
+      "handle": "eyebrow-trimmer-pen",
+      "title": "Precision Eyebrow Trimmer Pen",
+      "description_preview": "Portable facial trimmer for quick brow and upper lip touch-ups.",
+      "body_html": "<p>Compact rechargeable trimmer removes fine hair gently for polished, travel-friendly upkeep.</p>",
+      "price": "18.99",
+      "inventory_qty": 150,
+      "tags": [
+        "beauty",
+        "brows",
+        "portable"
+      ]
+    },
+    {
+      "handle": "scalp-massage-shampoo-brush",
+      "title": "Silicone Scalp Massage Brush",
+      "description_preview": "Boost shampoo routines with a gentle scalp scrub.",
+      "body_html": "<p>Flexible silicone bristles help distribute product evenly while supporting a relaxing wash-day routine.</p>",
+      "price": "10.99",
+      "inventory_qty": 240,
+      "tags": [
+        "beauty",
+        "haircare",
+        "self-care"
+      ]
+    },
+    {
+      "handle": "led-makeup-mirror-folding",
+      "title": "Folding LED Makeup Mirror",
+      "description_preview": "Bright adjustable mirror for desks, vanities, and travel bags.",
+      "body_html": "<p>Portable LED mirror offers clear lighting and multiple angles for makeup, skincare, and grooming.</p>",
+      "price": "29.99",
+      "inventory_qty": 105,
+      "tags": [
+        "beauty",
+        "mirror",
+        "travel"
+      ]
+    }
   ],
   "pages": {
     "Home": "Discover beauty tools that make your daily routine simple and relaxing.",
@@ -20,8 +151,41 @@
     "Privacy Policy": "We protect your personal information and process orders securely."
   },
   "marketing": {
-    "hooks": ["At-home beauty made easy.", "Upgrade your routine in minutes.", "Feel polished without the salon trip.", "Small tools, big glow-up.", "Beginner-friendly self-care starts here.", "Daily beauty, simplified.", "Look fresh with less effort.", "Affordable beauty essentials you’ll use.", "Self-care that fits your schedule.", "Your beauty routine, upgraded."],
-    "headlines": ["Beauty Tools for Everyday Glow", "Your At-Home Beauty Kit", "Simple Upgrades for Better Results", "Self-Care Tools You’ll Love", "Trending Beauty Essentials", "Beginner-Friendly Beauty Gear", "Fast Tools for Busy Mornings", "Affordable Beauty Must-Haves", "Refresh Your Routine Today", "Look Great in Less Time"],
-    "primary_texts": ["Make your beauty routine easier with practical tools built for everyday use.", "From skincare massage to lash styling, this pack helps customers get quick results.", "Stock giftable beauty products that are easy to market and easy to love.", "Perfect for beginners who want a simple routine with visible benefits.", "Offer your audience affordable self-care upgrades with modern appeal.", "This curated set gives your store a strong beauty starter lineup.", "Launch fast with ready product text, marketing copy, and CSV import.", "Smart tools that support confidence without expensive appointments.", "Give customers beauty essentials they can use from day one.", "Build a beauty niche store with products made for daily habits."]
+    "hooks": [
+      "At-home beauty made easy.",
+      "Upgrade your routine in minutes.",
+      "Feel polished without the salon trip.",
+      "Small tools, big glow-up.",
+      "Beginner-friendly self-care starts here.",
+      "Daily beauty, simplified.",
+      "Look fresh with less effort.",
+      "Affordable beauty essentials you\u2019ll use.",
+      "Self-care that fits your schedule.",
+      "Your beauty routine, upgraded."
+    ],
+    "headlines": [
+      "Beauty Tools for Everyday Glow",
+      "Your At-Home Beauty Kit",
+      "Simple Upgrades for Better Results",
+      "Self-Care Tools You\u2019ll Love",
+      "Trending Beauty Essentials",
+      "Beginner-Friendly Beauty Gear",
+      "Fast Tools for Busy Mornings",
+      "Affordable Beauty Must-Haves",
+      "Refresh Your Routine Today",
+      "Look Great in Less Time"
+    ],
+    "primary_texts": [
+      "Make your beauty routine easier with practical tools built for everyday use.",
+      "From skincare massage to lash styling, this pack helps customers get quick results.",
+      "Stock giftable beauty products that are easy to market and easy to love.",
+      "Perfect for beginners who want a simple routine with visible benefits.",
+      "Offer your audience affordable self-care upgrades with modern appeal.",
+      "This curated set gives your store a strong beauty starter lineup.",
+      "Launch fast with ready product text, marketing copy, and CSV import.",
+      "Smart tools that support confidence without expensive appointments.",
+      "Give customers beauty essentials they can use from day one.",
+      "Build a beauty niche store with products made for daily habits."
+    ]
   }
 }

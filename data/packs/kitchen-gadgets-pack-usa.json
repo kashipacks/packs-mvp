@@ -5,11 +5,142 @@
   "country": "USA",
   "summary": "Time-saving kitchen tools for home cooks and busy families.",
   "vendor": "Packs MVP",
-  "badges": ["beginner friendly", "home-use", "trending"],
+  "badges": [
+    "beginner friendly",
+    "home-use",
+    "trending"
+  ],
   "products": [
-    {"handle": "veggie-chopper-pro", "title": "Multi-Blade Veggie Chopper", "description_preview": "Dice onions and veggies in seconds.", "body_html": "<p>Prep meals faster with interchangeable blades and an easy-clean container.</p>", "price": "29.99", "inventory_qty": 95, "tags": ["kitchen", "prep", "gadget"]},
-    {"handle": "oil-spray-bottle", "title": "Refillable Oil Spray Bottle", "description_preview": "Even spray for healthier cooking.", "body_html": "<p>Control oil portions while air-frying, baking, or pan-cooking with a fine mist spray.</p>", "price": "14.99", "inventory_qty": 160, "tags": ["kitchen", "healthy", "cooking"]},
-    {"handle": "digital-measuring-spoon", "title": "Digital Measuring Spoon", "description_preview": "Precise ingredient measurement in grams.", "body_html": "<p>Measure powders and liquids accurately for recipes, coffee, and supplements.</p>", "price": "18.99", "inventory_qty": 140, "tags": ["kitchen", "baking", "precision"]}
+    {
+      "handle": "veggie-chopper-pro",
+      "title": "Multi-Blade Veggie Chopper",
+      "description_preview": "Dice onions and veggies in seconds.",
+      "body_html": "<p>Prep meals faster with interchangeable blades and an easy-clean container.</p>",
+      "price": "29.99",
+      "inventory_qty": 95,
+      "tags": [
+        "kitchen",
+        "prep",
+        "gadget"
+      ]
+    },
+    {
+      "handle": "oil-spray-bottle",
+      "title": "Refillable Oil Spray Bottle",
+      "description_preview": "Even spray for healthier cooking.",
+      "body_html": "<p>Control oil portions while air-frying, baking, or pan-cooking with a fine mist spray.</p>",
+      "price": "14.99",
+      "inventory_qty": 160,
+      "tags": [
+        "kitchen",
+        "healthy",
+        "cooking"
+      ]
+    },
+    {
+      "handle": "digital-measuring-spoon",
+      "title": "Digital Measuring Spoon",
+      "description_preview": "Precise ingredient measurement in grams.",
+      "body_html": "<p>Measure powders and liquids accurately for recipes, coffee, and supplements.</p>",
+      "price": "18.99",
+      "inventory_qty": 140,
+      "tags": [
+        "kitchen",
+        "baking",
+        "precision"
+      ]
+    },
+    {
+      "handle": "clip-on-pot-strainer",
+      "title": "Clip-On Pot Strainer",
+      "description_preview": "Drain pasta and vegetables without lifting a full colander.",
+      "body_html": "<p>Heat-safe silicone strainer clips onto most pots and pans for quick, controlled draining.</p>",
+      "price": "12.99",
+      "inventory_qty": 210,
+      "tags": [
+        "kitchen",
+        "cooking",
+        "cleanup"
+      ]
+    },
+    {
+      "handle": "garlic-press-rocker",
+      "title": "Stainless Garlic Press Rocker",
+      "description_preview": "Crush garlic quickly with less hand strain.",
+      "body_html": "<p>Curved press design minces garlic evenly and rinses clean in seconds after prep.</p>",
+      "price": "13.99",
+      "inventory_qty": 185,
+      "tags": [
+        "kitchen",
+        "prep",
+        "garlic"
+      ]
+    },
+    {
+      "handle": "collapsible-silicone-colander",
+      "title": "Collapsible Silicone Colander",
+      "description_preview": "Save cabinet space while rinsing fruits, pasta, and produce.",
+      "body_html": "<p>Fold-flat colander opens wide for washing and draining, then stores neatly in small kitchens.</p>",
+      "price": "16.99",
+      "inventory_qty": 170,
+      "tags": [
+        "kitchen",
+        "space-saving",
+        "cooking"
+      ]
+    },
+    {
+      "handle": "electric-milk-frother",
+      "title": "Handheld Electric Milk Frother",
+      "description_preview": "Whip coffee, matcha, and protein drinks in seconds.",
+      "body_html": "<p>Compact whisk creates creamy foam fast for lattes, hot chocolate, and smooth blended drinks.</p>",
+      "price": "15.99",
+      "inventory_qty": 155,
+      "tags": [
+        "kitchen",
+        "coffee",
+        "drinkware"
+      ]
+    },
+    {
+      "handle": "silicone-air-fryer-liners",
+      "title": "Reusable Air Fryer Liners (2-Pack)",
+      "description_preview": "Reduce stuck-on mess and simplify basket cleanup.",
+      "body_html": "<p>Food-safe silicone liners improve airflow while helping protect air fryer baskets from grease buildup.</p>",
+      "price": "17.99",
+      "inventory_qty": 145,
+      "tags": [
+        "kitchen",
+        "air-fryer",
+        "cleanup"
+      ]
+    },
+    {
+      "handle": "under-cabinet-jar-opener",
+      "title": "Under-Cabinet Jar Opener",
+      "description_preview": "Open stubborn lids with less twisting effort.",
+      "body_html": "<p>Hidden-mount opener grips multiple lid sizes to help users open jars safely and quickly.</p>",
+      "price": "14.99",
+      "inventory_qty": 165,
+      "tags": [
+        "kitchen",
+        "accessibility",
+        "tool"
+      ]
+    },
+    {
+      "handle": "magnetic-measuring-spoons-set",
+      "title": "Magnetic Measuring Spoons Set",
+      "description_preview": "Nest neatly and scoop spices from narrow jars.",
+      "body_html": "<p>Double-sided measuring spoons stay organized with magnetic storage and handle everyday baking tasks.</p>",
+      "price": "13.99",
+      "inventory_qty": 195,
+      "tags": [
+        "kitchen",
+        "baking",
+        "organization"
+      ]
+    }
   ],
   "pages": {
     "Home": "Smart kitchen tools that save time and make cooking easier every day.",
@@ -20,8 +151,41 @@
     "Privacy Policy": "Customer details are protected and used only for order fulfillment."
   },
   "marketing": {
-    "hooks": ["Cook faster with less effort.", "Meal prep made beginner-friendly.", "Less chopping, more enjoying.", "Simple tools for busy kitchens.", "Upgrade your cooking routine today.", "Cleaner prep, better meals.", "Healthy cooking starts with control.", "Kitchen shortcuts that actually work.", "Make every recipe easier.", "Smart gadgets for everyday cooks."],
-    "headlines": ["Kitchen Gadgets That Save Time", "Cook Smarter Every Day", "Beginner-Friendly Kitchen Tools", "Top Picks for Faster Meal Prep", "Smart Essentials for Home Cooks", "Trending Kitchen Must-Haves", "Make Cooking Easy Again", "Mess-Free Cooking Upgrades", "Practical Tools, Better Meals", "Your New Favorite Kitchen Set"],
-    "primary_texts": ["Help your customers prep meals faster with practical gadgets they’ll use daily.", "This kitchen pack is designed for convenience, easy cleanup, and better cooking flow.", "Offer useful products that solve common kitchen frustrations instantly.", "From chopping to measuring, these tools simplify everyday recipes.", "Perfect for busy families, meal preppers, and beginner home cooks.", "Stock your store with kitchen essentials that combine function and value.", "Launch with confidence using ready-made product copy and Shopify CSV import.", "Curated products make your kitchen niche store easier to run.", "Give customers smarter cooking tools without the premium price.", "Simple gadgets. Real benefits. Great starter pack for ecommerce." ]
+    "hooks": [
+      "Cook faster with less effort.",
+      "Meal prep made beginner-friendly.",
+      "Less chopping, more enjoying.",
+      "Simple tools for busy kitchens.",
+      "Upgrade your cooking routine today.",
+      "Cleaner prep, better meals.",
+      "Healthy cooking starts with control.",
+      "Kitchen shortcuts that actually work.",
+      "Make every recipe easier.",
+      "Smart gadgets for everyday cooks."
+    ],
+    "headlines": [
+      "Kitchen Gadgets That Save Time",
+      "Cook Smarter Every Day",
+      "Beginner-Friendly Kitchen Tools",
+      "Top Picks for Faster Meal Prep",
+      "Smart Essentials for Home Cooks",
+      "Trending Kitchen Must-Haves",
+      "Make Cooking Easy Again",
+      "Mess-Free Cooking Upgrades",
+      "Practical Tools, Better Meals",
+      "Your New Favorite Kitchen Set"
+    ],
+    "primary_texts": [
+      "Help your customers prep meals faster with practical gadgets they\u2019ll use daily.",
+      "This kitchen pack is designed for convenience, easy cleanup, and better cooking flow.",
+      "Offer useful products that solve common kitchen frustrations instantly.",
+      "From chopping to measuring, these tools simplify everyday recipes.",
+      "Perfect for busy families, meal preppers, and beginner home cooks.",
+      "Stock your store with kitchen essentials that combine function and value.",
+      "Launch with confidence using ready-made product copy and Shopify CSV import.",
+      "Curated products make your kitchen niche store easier to run.",
+      "Give customers smarter cooking tools without the premium price.",
+      "Simple gadgets. Real benefits. Great starter pack for ecommerce."
+    ]
   }
 }
