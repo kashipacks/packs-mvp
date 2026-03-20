@@ -6,6 +6,7 @@ const pricingTiers = [
     price: '$19',
     whatsappLink:
       'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20the%20Single%20Pack%20(%2419).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
+    emailBody: 'Hi, I want to order the Single Pack ($19). Please send me the payment request. My email is: ______',
     features: [
       '1 niche pack',
       'Shopify CSV',
@@ -20,6 +21,7 @@ const pricingTiers = [
     featured: true,
     whatsappLink:
       'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20the%203%20Pack%20Bundle%20(%2449).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
+    emailBody: 'Hi, I want to order the 3 Pack Bundle ($49). Please send me the payment request. My email is: ______',
     features: [
       'any 3 packs',
       '3 Shopify CSV files',
@@ -33,6 +35,7 @@ const pricingTiers = [
     price: '$99',
     whatsappLink:
       'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20All%2010%20Packs%20(%2499).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
+    emailBody: 'Hi, I want to order All 10 Packs ($99). Please send me the payment request. My email is: ______',
     features: [
       'all 10 starter packs',
       'all Shopify CSV files',
@@ -43,8 +46,8 @@ const pricingTiers = [
   },
 ];
 
-const emailLink =
-  'mailto:kashimehar47@gmail.com?subject=Shopify%20Launch%20Kit%20Order';
+const gmailComposeBaseLink =
+  'https://mail.google.com/mail/?view=cm&fs=1&to=kashimehar47@gmail.com&su=Shopify%20Launch%20Kit%20Order';
 
 export default function HomePage() {
   return (
@@ -101,7 +104,12 @@ export default function HomePage() {
                 >
                   Order on WhatsApp
                 </a>
-                <a href={emailLink} className="btn secondary">
+                <a
+                  href={`${gmailComposeBaseLink}&body=${encodeURIComponent(tier.emailBody)}`}
+                  className="btn secondary"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Email to Order
                 </a>
               </div>
