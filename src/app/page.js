@@ -4,6 +4,8 @@ const pricingTiers = [
   {
     title: 'Single Pack',
     price: '$19',
+    whatsappLink:
+      'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20the%20Single%20Pack%20(%2419).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
     features: [
       '1 niche pack',
       'Shopify CSV',
@@ -16,6 +18,8 @@ const pricingTiers = [
     title: '3 Pack Bundle',
     price: '$49',
     featured: true,
+    whatsappLink:
+      'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20the%203%20Pack%20Bundle%20(%2449).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
     features: [
       'any 3 packs',
       '3 Shopify CSV files',
@@ -27,6 +31,8 @@ const pricingTiers = [
   {
     title: 'All 10 Packs',
     price: '$99',
+    whatsappLink:
+      'https://wa.me/923257215983?text=Hi%2C%20I%20want%20to%20order%20All%2010%20Packs%20(%2499).%20Please%20send%20me%20the%20payment%20request.%20My%20email%20is%3A%20______',
     features: [
       'all 10 starter packs',
       'all Shopify CSV files',
@@ -37,9 +43,8 @@ const pricingTiers = [
   },
 ];
 
-const whatsappLink =
-  'https://wa.me/92XXXXXXXXXX?text=Hi,%20I%20want%20to%20order%20a%20Shopify%20Launch%20Kit.';
-const emailLink = 'mailto:your@email.com?subject=Shopify%20Launch%20Kit%20Order';
+const emailLink =
+  'mailto:kashimehar47@gmail.com?subject=Shopify%20Launch%20Kit%20Order';
 
 export default function HomePage() {
   return (
@@ -89,7 +94,7 @@ export default function HomePage() {
 
               <div className="pricing-actions">
                 <a
-                  href={whatsappLink}
+                  href={tier.whatsappLink}
                   className="btn"
                   target="_blank"
                   rel="noreferrer"
