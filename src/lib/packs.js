@@ -1,5 +1,6 @@
 import fs from 'fs/promises';
 import path from 'path';
+import { phase15LaunchKits } from './phase15LaunchKits';
 
 const packsDir = path.join(process.cwd(), 'data', 'packs');
 
@@ -11,7 +12,11 @@ export async function getAllPacks() {
     packFiles.map(async (file) => {
       const fullPath = path.join(packsDir, file);
       const content = await fs.readFile(fullPath, 'utf8');
-      return JSON.parse(content);
+      const pack = JSON.parse(content);
+      return {
+        ...pack,
+        ...(phase15LaunchKits[pack.pack_id] || {})
+      };
     })
   );
 
